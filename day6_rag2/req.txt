@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pypdf
+chromadb
+scikit-learn
+langchain-text-splitters
+pandas
+sqlalchemy
+psycopg[binary]
