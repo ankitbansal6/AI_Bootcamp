@@ -1,0 +1,7 @@
+langchain
+openai
+sentence-transformers
+python-dotenv
+nltk
+rank-bm25
+langchain-openai
