@@ -1,0 +1,5 @@
+openai
+deepeval
+python-dotenv
+chromadb
+pypdf
