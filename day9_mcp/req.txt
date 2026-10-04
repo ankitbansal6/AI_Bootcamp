@@ -1,0 +1,8 @@
+openai
+python-dotenv
+fastmcp
+pypdf
+chromadb
+psycopg[binary]
+sqlalchemy
+pandas
