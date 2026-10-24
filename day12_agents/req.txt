@@ -1,0 +1,9 @@
+openai
+python-dotenv
+psycopg[binary]
+streamlit
+pandas
+sqlalchemy 
+openai-agents
+chromadb
+pypdf
