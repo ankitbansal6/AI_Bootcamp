@@ -1,1 +1,4 @@
-
+openai
+python-dotenv
+openai-agents
+openai-guardrails
