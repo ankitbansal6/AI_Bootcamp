@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "pre_flight": {
+    "version": 1,
+    "guardrails": [
+      {
+        "name": "Contains PII",
+        "config": {
+          "entities": [
+            "EMAIL_ADDRESS",
+            "URL",
+            "CREDIT_CARD"
+          ],
+          "block": true
+        }
+      }
+    ]
+  },
+  "input": {
+    "version": 1,
+    "guardrails": []
+  },
+  "output": {
+    "version": 1,
+    "guardrails": []
+  }
+}
