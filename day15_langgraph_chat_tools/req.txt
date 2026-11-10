@@ -1,1 +1,7 @@
-
+python-dotenv
+langchain
+langgraph
+langchain-anthropic
+psycopg[binary]
+pandas
+sqlalchemy
