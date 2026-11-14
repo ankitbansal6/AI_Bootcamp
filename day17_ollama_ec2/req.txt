@@ -1,0 +1,6 @@
+langchain
+psycopg[binary]
+pandas
+sqlalchemy
+langchain-ollama
+streamlit
